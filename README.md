@@ -1,5 +1,7 @@
 Investment Tracker Application Readme
+<br>
 Overview
+<br>
 This Investment Tracker application is a simple tool designed to help users manage and track their investment portfolio. The application is written in Python and utilizes the Tkinter library for the graphical user interface (GUI).
 
 Features
@@ -49,22 +51,30 @@ Click the provided buttons to calculate the total portfolio value or show invest
 Confirm whether you want to quit the application when prompted.
 
 Notes
+<br>
 Data Format:
 Ensure that the data in the portfolio list is correctly formatted with the required keys (name, quantity, price, risk, return).
+<br>
 Exception Handling:
 The application includes exception handling for missing quantity or price information.
+<br>
 Tkinter GUI:
 The GUI is designed for simplicity. Further enhancements and styling can be applied based on user preferences.
+<br>
 Customization:
 Users can modify the portfolio data and extend the functionality according to their specific investment needs.
 
 Future Improvements
+<br>
 Data Persistence:
 Implement a mechanism to save and load portfolio data between application sessions.
+<br>
 Graphical Enhancements:
 Improve the overall aesthetics of the Tkinter GUI.
+<br>
 Additional Features:
 Add functionality for users to add, remove, or edit investments within the application.
+<br>
 Performance Optimization:
 Optimize code for larger portfolios or datasets.
 
